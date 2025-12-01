@@ -4,6 +4,7 @@
 ![alt text](</UML/Untitled Diagram.drawio.png>)
 
 --------------------------------------------------
+# patient class
 
 This Patient class manages patient records in a hospital system:
 What it does:
